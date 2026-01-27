@@ -1,0 +1,1551 @@
+{
+    "background-color": [
+        0,
+        20,
+        0,
+        255
+    ],
+    "entities": [
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2680.0,
+                215.0
+            ],
+            "scale": [
+                1.8,
+                1.5
+            ],
+            "collider": {
+                "type": 2
+            },
+            "rotation": -90,
+            "spritePath": "Resources/Sprites/spikes.png",
+            "tags": [
+                "Spike"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2320.0,
+                220.0
+            ],
+            "scale": [
+                1.8,
+                1.5
+            ],
+            "collider": {
+                "type": 2
+            },
+            "rotation": 90,
+            "spritePath": "Resources/Sprites/spikes.png",
+            "tags": [
+                "Spike"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2500.0,
+                400.0
+            ],
+            "scale": [
+                1.8,
+                1.5
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/spikes.png",
+            "tags": [
+                "Spike"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                200,
+                200,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -290.0,
+                -210.0
+            ],
+            "scale": [
+                0.15,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/mushroom-2.png",
+            "tags": [
+                "Bounce"
+            ],
+            "zIndex": 15
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3500.0,
+                -390.0
+            ],
+            "scale": [
+                20.0,
+                0.25
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 500
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3500.0,
+                2200.0
+            ],
+            "scale": [
+                20.0,
+                0.25
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 500
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -700.0,
+                -60.0
+            ],
+            "scale": [
+                0.6,
+                0.40
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                500.0,
+                100.0
+            ],
+            "scale": [
+                0.3,
+                0.7
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -700.0,
+                690.0
+            ],
+            "scale": [
+                0.6,
+                0.5
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                210,
+                1095
+            ],
+            "rotation": -10,
+            "scale": [
+                0.3,
+                0.3
+            ],
+            "spritePath": "Resources/Sprites/sign.png",
+            "collider": {
+                "type": 0
+            },
+            "zIndex": -1
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                590,
+                517
+            ],
+            "rotation": 5,
+            "scale": [
+                0.3,
+                0.3
+            ],
+            "spritePath": "Resources/Sprites/sign.png",
+            "collider": {
+                "type": 0
+            },
+            "zIndex": -1
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                290.0,
+                275.0
+            ],
+            "scale": [
+                0.1,
+                0.05
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                200,
+                200,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -290.0,
+                475.0
+            ],
+            "rotation": 30.0,
+            "scale": [
+                0.15,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/mushroom-2.png",
+            "tags": [
+                "Bounce"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -327.5,
+                410.0
+            ],
+            "rotation": 30.0,
+            "scale": [
+                0.15,
+                0.05
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -1600.0,
+                50.0
+            ],
+            "scale": [
+                0.3,
+                0.6
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                1850.0,
+                -100.0
+            ],
+            "scale": [
+                0.3,
+                0.6
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2500.0,
+                212.0
+            ],
+            "scale": [
+                0.3,
+                0.3
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2500.0,
+                -200.0
+            ],
+            "scale": [
+                0.3,
+                0.15
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                0,
+                200,
+                0,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2720.0,
+                -250.0
+            ],
+            "scale": [
+                3.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Spike"
+            ],
+            "zIndex": -1
+        },
+        {
+            "color": [
+                200,
+                200,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2950.0,
+                -210.0
+            ],
+            "scale": [
+                0.15,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/mushroom-2.png",
+            "tags": [
+                "Bounce"
+            ],
+            "zIndex": -15
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3400.0,
+                0.0
+            ],
+            "scale": [
+                0.3,
+                0.5
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4000.0,
+                300.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                200,
+                200,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4000.0,
+                400.0
+            ],
+            "scale": [
+                0.15,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/mushroom-2.png",
+            "tags": [
+                "Bounce"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3400.0,
+                700.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                200,
+                200,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3400.0,
+                800.0
+            ],
+            "scale": [
+                0.15,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/mushroom-2.png",
+            "tags": [
+                "Bounce"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2700.0,
+                1000.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                200,
+                200,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2700.0,
+                1100.0
+            ],
+            "scale": [
+                0.15,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/mushroom-2.png",
+            "tags": [
+                "Bounce"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -1800.0,
+                1300.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4600.0,
+                114.0
+            ],
+            "scale": [
+                0.3,
+                1.0
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -5200.0,
+                300.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -5800.0,
+                0.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -5200.0,
+                800.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -5800.0,
+                1100.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -6400.0,
+                1400.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -7500.0,
+                1600.0
+            ],
+            "scale": [
+                0.01,
+                1.0
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Breakable"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                50,
+                50,
+                50,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -7500.0,
+                900.0
+            ],
+            "scale": [
+                0.4,
+                0.4
+            ],
+            "spritePath": "Resources/Sprites/circle.png",
+            "tags": [
+                "Ball"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "position": [
+                -7500.0,
+                -150
+            ],
+            "scale": [
+                0.4,
+                0.4
+            ],
+            "spritePath": "Resources/Sprites/ball-rubble.png",
+            "collider":{
+                "type": 0
+            },
+            "tags": [
+                "BallRubble"
+            ],
+            "zIndex": -1
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "flipX": true,
+            "isSpriteless": false,
+            "position": [
+                -7500.0,
+                95.0
+            ],
+            "scale": [
+                0.65,
+                0.65
+            ],
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "collider":{
+                "type": 1
+            },
+            "tags": [
+                "CrushedEnemy"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                75
+            ],
+            "isSpriteless": false,
+            "position": [
+                -7500.0,
+                50.0
+            ],
+            "scale": [
+                0.8,
+                0.8
+            ],
+            "spritePath": "Resources/Sprites/energy-shield.png",
+            "collider":{
+                "type": 2
+            },
+            "tags": [
+                "CrushedEnemyShield"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                2700.0,
+                -100.0
+            ],
+            "scale": [
+                0.1,
+                0.6
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                0,
+                200,
+                0,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                2950.0,
+                -250.0
+            ],
+            "scale": [
+                4.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Spike"
+            ],
+            "zIndex": -1
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3500.0,
+                0.0
+            ],
+            "scale": [
+                0.1,
+                0.7
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                4500.0,
+                -100.0
+            ],
+            "scale": [
+                0.1,
+                0.6
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                5500.0,
+                0.0
+            ],
+            "scale": [
+                0.5,
+                0.7
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                6035.0,
+                900.0
+            ],
+            "scale": [
+                0.5,
+                2.5
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -14000.0,
+                900.0
+            ],
+            "scale": [
+                0.5,
+                2.5
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -8000.0,
+                1300.0
+            ],
+            "scale": [
+                0.2,
+                1.7
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                60,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -8000.0,
+                75.0
+            ],
+            "scale": [
+                0.1,
+                0.7
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Level1BossDoor",
+                "Ground"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3000.0,
+                1000.0
+            ],
+            "scale": [
+                5.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                4500.0,
+                1570.0
+            ],
+            "scale": [
+                2.5,
+                1.05
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                1450.0,
+                1570.0
+            ],
+            "scale": [
+                0.05,
+                1.05
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "collider": {
+                "type": 2
+            },
+            "tags": [
+                "TrapWallTrigger"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                2300.0,
+                1870.0
+            ],
+            "scale": [
+                0.1,
+                1.05
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "TrapWall",
+                "Ground"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                600.0,
+                1870.0
+            ],
+            "scale": [
+                0.1,
+                1.05
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "TrapWall",
+                "Ground"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                200,
+                200,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                2730.0,
+                1100.0
+            ],
+            "scale": [
+                0.15,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/mushroom-2.png",
+            "tags": [
+                "Bounce"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                2730.0,
+                1650.0
+            ],
+            "scale": [
+                0.5,
+                0.5
+            ],
+            "spritePath": "Resources/Sprites/ability.png",
+            "collider": {
+                "type": 2
+            },
+            "tags": [
+                "Ability",
+                "GainProjectile"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                5500.0,
+                590.0
+            ],
+            "scale": [
+                0.5,
+                0.5
+            ],
+            "spritePath": "Resources/Sprites/ability.png",
+            "collider": {
+                "type": 2
+            },
+            "tags": [
+                "Ability",
+                "GainDoubleJump"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -700.0,
+                198.0
+            ],
+            "scale": [
+                0.08,
+                0.08
+            ],
+            "spritePath": "Resources/Sprites/elvis-square.png",
+            "collider": {
+                "type": 0
+            },
+            "tags": [
+                "ElvisSquareley"
+            ],
+            "zIndex": 3
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -550.0,
+                287.0
+            ],
+            "scale": [
+                0.2,
+                0.25
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "collider": {
+                "type": 2
+            },
+            "tags": [
+                "DialogTriggerElvis"
+            ],
+            "zIndex": 3
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                75
+            ],
+            "isSpriteless": false,
+            "position": [
+                -13500.0,
+                -100.0
+            ],
+            "scale": [
+                0.3,
+                0.3
+            ],
+            "spritePath": "Resources/Sprites/energy-shield.png",
+            "collider":{
+                "type": 1
+            },
+            "tags": [
+                "Level1WormholeShield"
+            ],
+            "zIndex": 100
+        },
+        {
+            "color": [
+                140,
+                140,
+                255,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                -13500.0,
+                -100.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "Wormhole"
+            ],
+            "zIndex": 99
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                -13500.0,
+                -100.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "Wormhole"
+            ],
+            "zIndex": 97
+        },
+        {
+            "color": [
+                255,
+                140,
+                140,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                -13500.0,
+                -100.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "WormholeNegative"
+            ],
+            "zIndex": 98
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                -13500.0,
+                -100.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "WormholeTrigger",
+                "2"
+            ],
+            "zIndex": 99
+        },
+        {
+            "color": [
+                140,
+                140,
+                255,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                150.0,
+                -100.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "Wormhole"
+            ],
+            "zIndex": 99
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                150.0,
+                -100.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "Wormhole"
+            ],
+            "zIndex": 97
+        },
+        {
+            "color": [
+                255,
+                140,
+                140,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                150.0,
+                -100.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "WormholeNegative"
+            ],
+            "zIndex": 98
+        }
+    ],
+    "ui": []
+}

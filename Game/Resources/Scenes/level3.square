@@ -1,0 +1,3704 @@
+{
+    "background-color": [
+        70,
+        90,
+        120,
+        255
+    ],
+    "entities": [
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                2200.0,
+                4200.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "ChargeEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                2500.0,
+                4200.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "ChargeEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                2300.0,
+                3600.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "ChargeEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                3200.0,
+                1800.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                3200.0,
+                1800.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                2300.0,
+                2400.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                3200.0,
+                3600.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                3200.0,
+                1800.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                2200.0,
+                1200.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                2300.0,
+                1200.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "ChargeEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                3000.0,
+                1200.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "ChargeEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -3200.0,
+                300.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "ChargeEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -2000.0,
+                300.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "ChargeEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -8500.0,
+                0.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "ChargeEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -7900.0,
+                0.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -7700.0,
+                0.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -7500.0,
+                0.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -2500.0,
+                0.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3200.0,
+                -150.0
+            ],
+            "scale": [
+                0.2,
+                0.2
+            ],
+            "collider": {
+                "type": 0
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/guards.png",
+            "tags": [
+        
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2600.0,
+                -150.0
+            ],
+            "scale": [
+                0.2,
+                0.2
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/guards.png",
+            "tags": [
+        
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2000.0,
+                -150.0
+            ],
+            "scale": [
+                0.2,
+                0.2
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/guards.png",
+            "tags": [
+        
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -8950.0,
+                5375.0
+            ],
+            "scale": [
+                3.0,
+                3.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/chair.png",
+            "tags": [
+        
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -8900.0,
+                5700.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.png",
+            "tags": [
+        
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -9900.0,
+                5375.0
+            ],
+            "scale": [
+                0.2,
+                0.6
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "DialogTriggerReginald"
+            ],
+            "zIndex": 1
+        },
+        // main spawn ground
+        {
+            "color": [
+                40,
+                25,
+                5,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                6650.0,
+                -390.0
+            ],
+            "scale": [
+                5.5,
+                0.25
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 501
+        },
+        // tower ground
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                2820,
+                -336.0
+            ],
+            "scale": [
+                1.6,
+                0.35
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 500
+        },
+        // courtyard grass ground
+        {
+            "color": [
+                5,
+                56,
+                10,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                300.0,
+                -390.0
+            ],
+            "scale": [
+                3.125,
+                0.25
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 499
+        },
+        // guard room floor pieces
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2650.0,
+                -390.0
+            ],
+            "scale": [
+                2.5,
+                0.25
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 500
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4550.0,
+                -390.0
+            ],
+            "scale": [
+                0.1,
+                0.25
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 502
+        },
+        // barracks ground pieces
+        {
+            "color": [
+                40,
+                25,
+                5,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -13730.0,
+                -390.0
+            ],
+            "scale": [
+                1.0,
+                0.25
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 501
+        },
+        {
+            "color": [
+                40,
+                25,
+                5,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -8700.0,
+                -390.0
+            ],
+            "scale": [
+                7.7,
+                0.25
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 501
+        },
+        // spawn ground
+        {
+            "color": [
+                40,
+                25,
+                5,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                8800.0,
+                640.0
+            ],
+            "scale": [
+                1.5,
+                1.7
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        // right map bound wall
+        {
+            "color": [
+                40,
+                25,
+                5,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                9340.0,
+                4200.0
+            ],
+            "scale": [
+                0.5,
+                5.0
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        // gate guard
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "flipX": true,
+            "isSpriteless": false,
+            "position": [
+                5100.0,
+                95.0
+            ],
+            "scale": [
+                0.65,
+                0.65
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "zIndex": 1
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                75
+            ],
+            "isSpriteless": false,
+            "position": [
+                5100.0,
+                50.0
+            ],
+            "scale": [
+                0.8,
+                0.8
+            ],
+            "spritePath": "Resources/Sprites/energy-shield.png",
+            "zIndex": 2
+        },
+        // gate wall
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                4200.0,
+                800.0
+            ],
+            "scale": [
+                1.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/brick.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        // gate door
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                4200.0,
+                270.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/door.png",
+            "zIndex": 2
+        },
+        // right tower roof
+        {
+            "color": [
+                35,
+                35,
+                35,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                2810.0,
+                6450.0
+            ],
+            "scale": [
+                2.0,
+                2.5
+            ],
+            "spritePath": "Resources/Sprites/triangle.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 2
+        },
+        // right tower right walls
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3620.0,
+                2045.0
+            ],
+            "scale": [
+                0.1,
+                4.275
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3620.0,
+                4950.0
+            ],
+            "scale": [
+                0.1,
+                0.35
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        // right tower inside background
+        {
+            "color": [
+                20,
+                20,
+                20,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                2810.0,
+                2400.0
+            ],
+            "scale": [
+                1.5,
+                5.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": -30
+        },
+        // right tower left wall
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                2000.0,
+                2670.0
+            ],
+            "scale": [
+                0.1,
+                4.5
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        // vertical platforms next to spawn
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                7850.0,
+                200.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                7850.0,
+                700.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                7850.0,
+                1200.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        // horizontal platforms next to spawn
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                6850.0,
+                1500.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                5700.0,
+                1700.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        // platforms on right tower wall (outside)
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3800.0,
+                2300.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3800.0,
+                2800.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3800.0,
+                3300.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3800.0,
+                3800.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3800.0,
+                4300.0
+            ],
+            "scale": [
+                0.3,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        // platforms on right tower wall (inside)
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3050.0,
+                4300.0
+            ],
+            "scale": [
+                1.0,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                2575.0,
+                3800.0
+            ],
+            "scale": [
+                1.0,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3050.0,
+                3300.0
+            ],
+            "scale": [
+                1.0,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                2575.0,
+                2800.0
+            ],
+            "scale": [
+                1.0,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3050.0,
+                2300.0
+            ],
+            "scale": [
+                1.0,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                2575.0,
+                1800.0
+            ],
+            "scale": [
+                1.0,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3050.0,
+                1300.0
+            ],
+            "scale": [
+                1.0,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                2575.0,
+                800.0
+            ],
+            "scale": [
+                1.0,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3050.0,
+                300.0
+            ],
+            "scale": [
+                1.0,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        // fountain
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                300.0,
+                100.0
+            ],
+            "scale": [
+                0.7,
+                0.7
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/fountain.png",
+            "zIndex": -30
+        },
+        // palace walls and top trim background
+        {
+            "color": [
+                10,
+                10,
+                10,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -5850.0,
+                2000.0
+            ],
+            "scale": [
+                15.0,
+                4.5
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": -500
+        },
+        {
+            "color": [
+                20,
+                20,
+                20,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -5850.0,
+                4450.0
+            ],
+            "scale": [
+                15.0,
+                0.1
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": -499
+        },
+        // guard house roof
+        {
+            "color": [
+                35,
+                35,
+                35,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2950.0,
+                1250.0
+            ],
+            "scale": [
+                3.5,
+                1.5
+            ],
+            "spritePath": "Resources/Sprites/triangle.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 2
+        },
+        // guard house background
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2950.0,
+                100.0
+            ],
+            "scale": [
+                3.0,
+                1.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": -30
+        },
+        // guard house walls
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -1350.0,
+                275.0
+            ],
+            "scale": [
+                0.1,
+                0.4
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4550.0,
+                275.0
+            ],
+            "scale": [
+                0.1,
+                0.4
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        // left tower roof
+        {
+            "color": [
+                35,
+                35,
+                35,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -14000.0,
+                6450.0
+            ],
+            "scale": [
+                2.0,
+                2.5
+            ],
+            "spritePath": "Resources/Sprites/triangle.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 11
+        },
+        // left tower wall
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -14000.0,
+                2400.0
+            ],
+            "scale": [
+                1.5,
+                5.0
+            ],
+            "spritePath": "Resources/Sprites/brick.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 10
+        },
+        // weapon racks
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -6750.0,
+                -200.0
+            ],
+            "scale": [
+                0.5,
+                0.5
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/weapon-holder.png",
+            "zIndex": -30
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -8250.0,
+                -200.0
+            ],
+            "scale": [
+                0.5,
+                0.5
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/weapon-holder.png",
+            "zIndex": -30
+        },
+        // barracks
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -6000.0,
+                270.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/barracks.png",
+            "zIndex": -30
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -7500.0,
+                270.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/barracks.png",
+            "zIndex": -30
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -9000.0,
+                270.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/barracks.png",
+            "zIndex": -30
+        },
+        // final boss tower
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -8700.0,
+                2400.0
+            ],
+            "scale": [
+                5.0,
+                5.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/brick.png",
+            "zIndex": -50
+        },
+        // final boss tower side wall collider
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11350.0,
+                2620.0
+            ],
+            "scale": [
+                0.1,
+                4.6
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": -20
+        },
+        // final boss tower platforms
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11650.0,
+                5000.0
+            ],
+            "scale": [
+                0.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": -60
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -12950.0,
+                4600.0
+            ],
+            "scale": [
+                0.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": -60
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11650.0,
+                4200.0
+            ],
+            "scale": [
+                0.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": -60
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -12950.0,
+                3800.0
+            ],
+            "scale": [
+                0.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": -60
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11650.0,
+                3400.0
+            ],
+            "scale": [
+                0.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": -60
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -12950.0,
+                3000.0
+            ],
+            "scale": [
+                0.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": -60
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11650.0,
+                2600.0
+            ],
+            "scale": [
+                0.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": -60
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -12950.0,
+                2200.0
+            ],
+            "scale": [
+                0.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": -60
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11650.0,
+                1800.0
+            ],
+            "scale": [
+                0.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": -60
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -12950.0,
+                1400.0
+            ],
+            "scale": [
+                0.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": -60
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11650.0,
+                1000.0
+            ],
+            "scale": [
+                0.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": -60
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -12950.0,
+                600.0
+            ],
+            "scale": [
+                0.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": -60
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11650.0,
+                200.0
+            ],
+            "scale": [
+                0.5,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": -60
+        },
+        // final boss open door
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11460.0,
+                5477.0
+            ],
+            "scale": [
+                0.575,
+                0.575
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath":"Resources/Sprites/final-boss-door.png",
+            "tags": [
+                "FinalBossDoorOpen"
+            ],
+            "zIndex": 0
+        },
+        // final boss closed door
+        {
+            "color": [
+                48,
+                29,
+                20,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11372.0,
+                5475.0
+            ],
+            "scale": [
+                0.05,
+                0.575
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "FinalBossDoorClosed"
+            ],
+            "zIndex": 0
+        },
+        // final boss door lock
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11420.0,
+                5320.0
+            ],
+            "rotation": 15.0,
+            "scale": [
+                0.7,
+                0.7
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/final-boss-lock.png",
+            "tags": [
+                "FinalBossDoorLock"
+            ],
+            "zIndex": 1
+        },
+        // final boss door lock trigger
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11500.0,
+                5375.0
+            ],
+            "scale": [
+                0.2,
+                0.6
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "FinalBossDoorLockTrigger"
+            ],
+            "zIndex": 1
+        },
+        // boss room background
+        {
+            "color": [
+                20,
+                20,
+                20,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -8700.0,
+                5650.0
+            ],
+            "scale": [
+                5.0,
+                1.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": -50
+        },
+        // boss room roof
+        {
+            "color": [
+                35,
+                35,
+                35,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -8700.0,
+                6970.0
+            ],
+            "scale": [
+                5.6,
+                1.5
+            ],
+            "spritePath": "Resources/Sprites/triangle.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 2
+        },
+        // boss room walls
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11345.0,
+                6000.0
+            ],
+            "scale": [
+                0.1,
+                0.4
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -8700.0,
+                5650.0
+            ],
+            "scale": [
+                0.1,
+                1.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        // boss room floor
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -10050.0,
+                5110.0
+            ],
+            "scale": [
+                2.5,
+                0.1
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 2
+        },
+        // boss room divider
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -7350,
+                5670.0
+            ],
+            "scale": [
+                2.5,
+                1.1
+            ],
+            "spritePath": "Resources/Sprites/brick.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": -40
+        },
+        // distant palace towers
+        { // roof
+            "color": [
+                20,
+                20,
+                20,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -5250.0,
+                12200.0
+            ],
+            "scale": [
+                3.5,
+                3.5
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/triangle.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": -90
+        },
+        { // tower
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -5250.0,
+                5000.0
+            ],
+            "scale": [
+                3.0,
+                10.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/brick.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": -100
+        },
+        { // roof
+            "color": [
+                15,
+                15,
+                15,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -8250.0,
+                10200.0
+            ],
+            "scale": [
+                3.5,
+                3.5
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/triangle.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": -125
+        },
+        { // tower
+            "color": [
+                155,
+                155,
+                155,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -8250.0,
+                4000.0
+            ],
+            "scale": [
+                3.0,
+                8.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/brick.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": -150
+        },
+        { // roof
+            "color": [
+                15,
+                15,
+                15,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2250.0,
+                10200.0
+            ],
+            "scale": [
+                3.5,
+                3.5
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/triangle.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": -125
+        },
+        { // tower
+            "color": [
+                155,
+                155,
+                155,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2250.0,
+                4000.0
+            ],
+            "scale": [
+                3.0,
+                8.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/brick.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": -150
+        },
+        // underground background
+        {
+            "color": [
+                40,
+                25,
+                5,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2500.0,
+                -4200.0
+            ],
+            "scale": [
+                25.0,
+                7.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": -500
+        },
+        // underground prison background
+        {
+            "color": [
+                20,
+                20,
+                20,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2950.0,
+                -1000.0
+            ],
+            "scale": [
+                3.0,
+                1.07
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": -100
+        },
+        // underground prison walls
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4550.0,
+                -1000.0
+            ],
+            "scale": [
+                0.1,
+                1.0
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 10
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -1355.0,
+                -1000.0
+            ],
+            "scale": [
+                0.1,
+                1.0
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 10
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2950.0,
+                -1550.0
+            ],
+            "scale": [
+                3.07,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 10
+        },
+        // prison platform ladder
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4450.0,
+                -600.0
+            ],
+            "scale": [
+                0.2,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4450.0,
+                -1050.0
+            ],
+            "scale": [
+                0.2,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 0
+        },
+        // prison cell
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3000.0,
+                -800.0
+            ],
+            "scale": [
+                1.75,
+                0.04
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": 5
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3000.0,
+                -1475.0
+            ],
+            "scale": [
+                1.75,
+                0.04
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": 5
+        },
+        // prison cell bars
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2100.0,
+                -1150.0
+            ],
+            "scale": [
+                0.04,
+                0.65
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": 5
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2325.0,
+                -1150.0
+            ],
+            "scale": [
+                0.04,
+                0.65
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": 5
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2550.0,
+                -1150.0
+            ],
+            "scale": [
+                0.04,
+                0.65
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": 5
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2775.0,
+                -1150.0
+            ],
+            "scale": [
+                0.04,
+                0.65
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": 5
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3000.0,
+                -1150.0
+            ],
+            "scale": [
+                0.04,
+                0.65
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": 5
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3225.0,
+                -1150.0
+            ],
+            "scale": [
+                0.04,
+                0.65
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": 5
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3450.0,
+                -1150.0
+            ],
+            "scale": [
+                0.04,
+                0.65
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": 5
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3675.0,
+                -1150.0
+            ],
+            "scale": [
+                0.04,
+                0.65
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": 5
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3900.0,
+                -1150.0
+            ],
+            "scale": [
+                0.04,
+                0.65
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": 5
+        },
+        // lord hex and lady hepta
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3000.0,
+                -1010.0
+            ],
+            "scale": [
+                0.3,
+                0.9
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "DialogTriggerHexHepta"
+            ],
+            "zIndex": 20
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3350.0,
+                -1315.0
+            ],
+            "scale": [
+                0.3,
+                0.3
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/lord-hex.png",
+            "zIndex": 2
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2650.0,
+                -1305.0
+            ],
+            "scale": [
+                0.3,
+                0.3
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/lady-hepta.png",
+            "zIndex": 2
+        },
+        // final boss key
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -1700.0,
+                -1400.0
+            ],
+            "scale": [
+                0.7,
+                0.7
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/final-boss-key.png",
+            "tags": [
+                "GainKey"
+            ],
+            "zIndex": 1
+        },
+        // octagon tunnel background
+        {
+            "color": [
+                25,
+                15,
+                0,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -13025.0,
+                -1332.5
+            ],
+            "scale": [
+                0.31,
+                2.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": -490
+        },
+        {
+            "color": [
+                25,
+                15,
+                0,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11570.0,
+                -2532.5
+            ],
+            "scale": [
+                3.0,
+                0.3
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "zIndex": -489
+        },
+        // octagon tunnel walls
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -13207.0,
+                -1600.0
+            ],
+            "scale": [
+                0.03,
+                2.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 2
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -12840.0,
+                -1425.0
+            ],
+            "scale": [
+                0.03,
+                1.75
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 2
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11600.0,
+                -2710.0
+            ],
+            "scale": [
+                3.2,
+                0.03
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 2
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11360.0,
+                -2350.0
+            ],
+            "scale": [
+                2.75,
+                0.03
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 2
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -9925.0,
+                -2530.0
+            ],
+            "scale": [
+                0.03,
+                0.35
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 2
+        },
+        // octagon
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11025.0,
+                -2530.0
+            ],
+            "scale": [
+                0.3,
+                0.3
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "DialogTriggerLastOcta"
+            ],
+            "zIndex": 20
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -10725.0,
+                -2560.0
+            ],
+            "scale": [
+                0.27,
+                0.27
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/last-octagon.png",
+            "zIndex": 2
+        },
+        // octagon tunnel barrel cover
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -13010.0,
+                -165.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "spritePath": "Resources/Sprites/barrel.png",
+            "tags": [
+                "Breakable"
+            ],
+            "zIndex": 2
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -12950.0,
+                -165.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "spritePath": "Resources/Sprites/barrel.png",
+            "tags": [
+                "Breakable"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                155,
+                155,
+                155,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -12900.0,
+                -165.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "spritePath": "Resources/Sprites/barrel.png",
+            "tags": [
+                "Breakable"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -13070.0,
+                -165.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "spritePath": "Resources/Sprites/barrel.png",
+            "tags": [
+                "Breakable"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                155,
+                155,
+                155,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -13120.0,
+                -165.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "spritePath": "Resources/Sprites/barrel.png",
+            "tags": [
+                "Breakable"
+            ],
+            "zIndex": 0
+        },
+        // level bounds
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2650.0,
+                2300.0
+            ],
+            "scale": [
+                25.0,
+                5.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Level3BoundsTrigger1"
+            ],
+            "zIndex": 1000
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2950.0,
+                -1000.0
+            ],
+            "scale": [
+                3.0,
+                1.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Level3BoundsTrigger2"
+            ],
+            "zIndex": 1000
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -11600.0,
+                -1700.0
+            ],
+            "scale": [
+                3.7,
+                2.2
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Level3BoundsTrigger3"
+            ],
+            "zIndex": 1000
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -10000.0,
+                5650.0
+            ],
+            "scale": [
+                2.5,
+                1.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Level3BoundsTrigger4"
+            ],
+            "zIndex": 1000
+        },
+        // wormhole to level start
+        {
+            "color": [
+                140,
+                140,
+                255,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                -10125.0,
+                -2530.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "Wormhole"
+            ],
+            "zIndex": 99
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                -10125.0,
+                -2530.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "Wormhole"
+            ],
+            "zIndex": 97
+        },
+        {
+            "color": [
+                255,
+                140,
+                140,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                -10125.0,
+                -2530.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "WormholeNegative"
+            ],
+            "zIndex": 98
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                -10125.0,
+                -2530.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "WormholeTrigger",
+                "TeleportPlayer"
+            ],
+            "zIndex": 99
+        },
+        // wormhole to level 2
+        {
+            "color": [
+                140,
+                140,
+                255,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                8650.0,
+                1750.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "Wormhole"
+            ],
+            "zIndex": 99
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                8650.0,
+                1750.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "Wormhole"
+            ],
+            "zIndex": 97
+        },
+        {
+            "color": [
+                255,
+                140,
+                140,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                8650.0,
+                1750.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "WormholeNegative"
+            ],
+            "zIndex": 98
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                8650.0,
+                1750.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "WormholeTrigger",
+                "2"
+            ],
+            "zIndex": 99
+        }
+    ],
+    "ui": []
+}

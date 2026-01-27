@@ -1,0 +1,2262 @@
+{
+    "background-color": [ 90, 50, 40, 255 ],
+    "entities": [
+
+        { // decoration
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -4500.0,
+                1550.0
+            ],
+            "scale": [
+                0.5,
+                0.5
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/weapon-holder.png",
+            "tags": [
+            ],
+            "zIndex": -30
+        },
+        { // decoration
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -4400.0,
+                1550.0
+            ],
+            "scale": [
+                0.5,
+                0.5
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/weapon-holder.png",
+            "tags": [
+            ],
+            "zIndex": -30
+        },
+        { // decoration
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -4000.0,
+                1640.0
+            ],
+            "scale": [
+                0.5,
+                0.5
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/barracks.png",
+            "tags": [
+            ],
+            "zIndex": -30
+        },
+        { // decoration
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -5300.0,
+                1500.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/chair.png",
+            "tags": [
+            ],
+            "zIndex": -30
+        },
+        { // decoration
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -6000.0,
+                2000.0
+            ],
+            "scale": [
+                3.0,
+                3.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/triangle-painting.png",
+            "tags": [
+            ],
+            "zIndex": -30
+        },
+        { // background
+            "color": [
+                20,
+                10,
+                5,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -5400.0,
+                2100.0
+            ],
+            "scale": [
+                4.0,
+                2.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": -100
+        },
+        { // background
+            "color": [
+                10,
+                10,
+                10,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -5400.0,
+                -300.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": -100
+        },
+        { // background
+            "color": [
+                10,
+                10,
+                10,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3500.0,
+                -5655.0
+            ],
+            "scale": [
+                8.1,
+                10.0
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": -100
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                0
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -4450.0,
+                -4550.0
+            ],
+            "scale": [
+                0.01,
+                0.01
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Boss2RightAttackPosition"
+            ],
+            "zIndex": 15
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                0
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -5500.0,
+                -4550.0
+            ],
+            "scale": [
+                0.01,
+                0.01
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Boss2LeftAttackPosition"
+            ],
+            "zIndex": 15
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -5200.0,
+                -2000.0
+            ],
+            "scale": [
+                2.0,
+                5.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Boss2Activate"
+            ],
+            "zIndex": 25
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -2000.0,
+                -2500.0
+            ],
+            "scale": [
+                4.0,
+                4.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Level2BoundsTrigger3"
+            ],
+            "zIndex": 25
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -5200.0,
+                -2000.0
+            ],
+            "scale": [
+                2.0,
+                5.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Level2BoundsTrigger3"
+            ],
+            "zIndex": 25
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -6225.0,
+                2450.0
+            ],
+            "scale": [
+                6.0,
+                3.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Level2BoundsTrigger2"
+            ],
+            "zIndex": 25
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                300.0,
+                1400.0
+            ],
+            "scale": [
+                6.0,
+                3.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Level2BoundsTrigger1"
+            ],
+            "zIndex": 25
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -5800.0,
+                1850.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "ChargeEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -6300.0,
+                1850.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -6100.0,
+                1850.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -6500.0,
+                1850.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -6700.0,
+                1850.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -4000.0,
+                1250.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "ChargeEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -4500.0,
+                1850.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -4100.0,
+                1850.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "JumpEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": true,
+            "isSpriteless": false,
+            "position": [
+                -4100.0,
+                850.0
+            ],
+            "scale": [
+                0.075,
+                0.075
+            ],
+            "collider": {
+                "type": 1
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/triangle-enemy.png",
+            "tags": [
+                "Enemy",
+                "ChargeEnemy",
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -4395.0,
+                830.0
+            ],
+            "scale": [
+                0.25,
+                0.25
+            ],
+            "rotation": -45.0,
+            "collider": {
+                "type": 0
+            },
+            "flipX": true,
+            "spritePath": "Resources/Sprites/sign.png",
+            "tags": [
+                "Pogo"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -4000.0,
+                -4475.0
+            ],
+            "scale": [
+                0.5,
+                0.5
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/ability.png",
+            "tags": [
+                "GainDoubleDash",
+                "Ability"
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                70,
+                70,
+                70,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -4300.0,
+                -4475.0
+            ],
+            "scale": [
+                0.1,
+                0.25
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Boss2Exit"
+            ],
+            "zIndex": -1
+        },
+        {
+            "color": [
+                140,
+                140,
+                255,
+                0
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                -8850.0,
+                1450.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "WormholeTrigger",
+                "3"
+            ],
+            "zIndex": 99
+        },
+        {
+            "color": [
+                140,
+                140,
+                255,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                -8850.0,
+                1450.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "Wormhole"
+            ],
+            "zIndex": 99
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                0.0,
+                -150.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "Wormhole"
+            ],
+            "zIndex": 97
+        },
+        {
+            "color": [
+                255,
+                140,
+                140,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                0.0,
+                -150.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "WormholeNegative"
+            ],
+            "zIndex": 98
+        },
+        { // boss gate
+            "color": [
+                60,
+                40,
+                35,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4950.0,
+                750.0
+            ],
+            "scale": [
+                1.25,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "Boss2Gate"
+            ],
+            "zIndex": -1
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -5250.0,
+                1320.0
+            ],
+            "scale": [
+                0.1,
+                0.1
+            ],
+            "rotation": 180.0,
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/lever.png",
+            "tags": [
+                "Lever2Boss"
+            ],
+            "zIndex": 0
+        },
+        { // top
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -6600.0,
+                3000.0
+            ],
+            "scale": [
+                6.0,
+                0.5
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                255,
+                230,
+                230,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4400.0,
+                2070.0
+            ],
+            "scale": [
+                0.15,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/mushroom-orange.png",
+            "tags": [
+                "Bounce"
+            ],
+            "zIndex": 0
+        },
+        { // bottom
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4400.0,
+                2000.0
+            ],
+            "scale": [
+                0.15,
+                0.05
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                255,
+                230,
+                230,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4800.0,
+                1670.0
+            ],
+            "scale": [
+                0.15,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/mushroom-orange.png",
+            "tags": [
+                "Bounce"
+            ],
+            "zIndex": 0
+        },
+        { // bottom
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4800.0,
+                1600.0
+            ],
+            "scale": [
+                0.25,
+                0.05
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        { // bottom
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4300.0,
+                1350.0
+            ],
+            "scale": [
+                1.25,
+                0.05
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        { // bottom
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -4000.0,
+                1045.0
+            ],
+            "scale": [
+                1.25,
+                0.05
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        { // bottom
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -5950.0,
+                1400.0
+            ],
+            "scale": [
+                2.0,
+                0.05
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        { // bottom
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -5950.0,
+                1045.0
+            ],
+            "scale": [
+                2.0,
+                0.05
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        { // bottom
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -7100.0,
+                1045.0
+            ],
+            "scale": [
+                0.25,
+                0.05
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "Boss2Gate"
+            ],
+            "zIndex": 1
+        },
+        { // middle
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -5000.0,
+                1725.0
+            ],
+            "scale": [
+                0.25,
+                1.3
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        { // right
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3300.0,
+                2100.0
+            ],
+            "scale": [
+                0.25,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        { // left
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -7500.0,
+                2100.0
+            ],
+            "scale": [
+                0.5,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        { 
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -9500.0,
+                1500.0
+            ],
+            "scale": [
+                1.0,
+                4.0
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                255,
+                0,
+                0,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -1500.0,
+                -4550.0
+            ],
+            "scale": [
+                0.7,
+                0.1
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Spike"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -1000.0,
+                -4550.0
+            ],
+            "scale": [
+                0.3,
+                0.4
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -1900.0,
+                -4550.0
+            ],
+            "scale": [
+                0.1,
+                0.13
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -2200.0,
+                -3600.0
+            ],
+            "scale": [
+                0.2,
+                0.1
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -1350.0,
+                -520.0
+            ],
+            "scale": [
+                0.1,
+                0.1
+            ],
+            "collider": {
+                "type": 2
+            },
+            "rotation": 180.0,
+            "spritePath": "Resources/Sprites/lever.png",
+            "tags": [
+                "Lever2Back"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -1200.0,
+                -700.0
+            ],
+            "scale": [
+                0.2,
+                0.05
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -900.0,
+                -1000.0
+            ],
+            "scale": [
+                0.2,
+                0.05
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -900.0,
+                -1300.0
+            ],
+            "scale": [
+                0.2,
+                0.05
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -900.0,
+                -1600.0
+            ],
+            "scale": [
+                0.2,
+                0.05
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -900.0,
+                -1900.0
+            ],
+            "scale": [
+                0.2,
+                0.05
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -900.0,
+                -2200.0
+            ],
+            "scale": [
+                0.2,
+                0.05
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -900.0,
+                -2500.0
+            ],
+            "scale": [
+                0.2,
+                0.05
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -900.0,
+                -2800.0
+            ],
+            "scale": [
+                0.2,
+                0.05
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -900.0,
+                -3100.0
+            ],
+            "scale": [
+                0.2,
+                0.05
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -1300.0,
+                -3400.0
+            ],
+            "scale": [
+                0.2,
+                0.05
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -1400.0,
+                -4000.0
+            ],
+            "scale": [
+                0.2,
+                0.1
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -900.0,
+                -4100.0
+            ],
+            "scale": [
+                0.1,
+                0.05
+            ],
+            "collider": {
+                "type": 1
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                255,
+                230,
+                230,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -1400.0,
+                -3900.0
+            ],
+            "scale": [
+                0.15,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/mushroom-orange.png",
+            "tags": [
+                "Bounce"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                180,
+                180,
+                180,
+                0
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -1200.0,
+                -200.0
+            ],
+            "scale": [
+                0.1,
+                0.1
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "DialogTriggerPapagon"
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+               180,
+                180,
+                180,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -1300.0,
+                -200.0
+            ],
+            "scale": [
+                0.1,
+                0.1
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/pentagon.png",
+            "tags": [
+                "NPC"
+            ],
+            "zIndex": 12
+        },
+        {
+            "color": [
+                255,
+                230,
+                230,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2900.0,
+                380.0
+            ],
+            "scale": [
+                0.15,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/mushroom-orange.png",
+            "tags": [
+                "Bounce"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -1760.0,
+                -220.0
+            ],
+            "scale": [
+                0.17,
+                0.06
+            ],
+            "rotation": -3.0,
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                0
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2450.0,
+                95.0
+            ],
+            "scale": [
+                0.3,
+                0.05
+            ],
+                "rotation": -4.0,
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2900.0,
+                250.0
+            ],
+            "scale": [
+                0.15,
+                0.15
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2900.0,
+                0.0
+            ],
+            "scale": [
+                0.14,
+                0.05
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        { // left platform
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -7700.0,
+                0.0
+            ],
+            "scale": [
+                4.0,
+                1.5
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        { // middle platform
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3675.0,
+                0.0
+            ],
+            "scale": [
+                1.3,
+                1.5
+            ],
+            "spritePath": "Resources/Sprites/square.png", 
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 0
+        },
+        {
+            "color": [
+                40,
+                40,
+                40,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                1680.0,
+                0.0
+            ],
+            "scale": [
+                3.0,
+                3.0
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+            ],
+            "zIndex": 0
+        },
+        { // ground platform
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                3500.0,
+                -5655.0
+            ],
+            "scale": [
+                8.1,
+                10.0
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        { // ground platform
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -9925.0,
+                -5650.0
+            ],
+            "scale": [
+                8.1,
+                10.0
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        { // ground platform
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -500.0,
+                -10000.0
+            ],
+            "scale": [
+                10.0,
+                10.0
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        { // ground platform
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -1050.0,
+                -455.0
+            ],
+            "scale": [
+                0.1,
+                0.025
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": 1
+        },
+        { // ground platform
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -1125.0,
+                -360.0
+            ],
+            "scale": [
+                0.25,
+                0.2
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "Lever2BackBlock"
+            ],
+            "zIndex": 1
+        },
+        { // ground platform
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                1150.0,
+                -360.0
+            ],
+            "scale": [
+                4.0,
+                0.2
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        { // ground platform
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -2300.0,
+                -360.0
+            ],
+            "scale": [
+                2.0,
+                0.2
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        { // ground platform
+            "color": [
+                30,
+                30,
+                30,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -3300.0,
+                -2305.0
+            ],
+            "scale": [
+                2.0,
+                3.8
+            ],
+            "spritePath": "Resources/Sprites/square.png",
+            "tags": [
+                "Ground",
+                "ValidGround"
+            ],
+            "zIndex": 1
+        },
+        {
+            "color": [
+                255,
+                230,
+                230,
+                255
+            ],
+            "isSpriteless": false,
+            "position": [
+                -290.0,
+                -210.0
+            ],
+            "scale": [
+                0.15,
+                0.1
+            ],
+            "spritePath": "Resources/Sprites/mushroom-orange.png",
+            "tags": [
+                "Bounce"
+            ],
+            "zIndex": 0
+        },
+
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -750.0,
+                100.0
+            ],
+            "scale": [
+                0.7,
+                0.7
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/pentagon-house-03.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": -3
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -1500.0,
+                100.0
+            ],
+            "scale": [
+                0.7,
+                0.7
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/pentagon-house-02.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": -3
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physEnabled": false,
+            "isSpriteless": false,
+            "position": [
+                -2250.0,
+                100.0
+            ],
+            "scale": [
+                0.7,
+                0.7
+            ],
+            "collider": {
+                "type": 0
+            },
+            "spritePath": "Resources/Sprites/pentagon-house-01.png",
+            "tags": [
+                "Ground"
+            ],
+            "zIndex": -3
+        },
+        {
+            "color": [
+                140,
+                140,
+                255,
+                0
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                0.0,
+                -150.0
+            ],
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "WormholeTrigger",
+                "1"
+            ],
+            "zIndex": 99
+        },
+        {
+            "color": [
+                140,
+                140,
+                255,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                0.0,
+                -150.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "collider": {
+                "type": 2
+            },
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "Wormhole"
+            ],
+            "zIndex": 99
+        },
+        {
+            "color": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                0.0,
+                -150.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "Wormhole"
+            ],
+            "zIndex": 97
+        },
+        {
+            "color": [
+                255,
+                140,
+                140,
+                255
+            ],
+            "physApplied": false,
+            "isSpriteless": false,
+            "position": [
+                0.0,
+                -150.0
+            ],
+            "scale": [
+                2.0,
+                2.0
+            ],
+            "spritePath": "Resources/Sprites/wormhole.png",
+            "tags": [
+                "WormholeNegative"
+            ],
+            "zIndex": 98
+        }
+    ],
+    "ui": []
+}

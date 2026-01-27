@@ -1,0 +1,68 @@
+[
+    {
+        "id": 0,
+        "lines": [
+            {"speaker": "Test Guy", "text": "Hello!"},
+            {"speaker": "Test Guy", "text": "I am Test Guy."},
+            {"speaker": "Test Guy", "text": "Nice to meet you!"}
+        ]
+    },
+    {
+        "id": 1,
+        "lines": [
+            {"speaker": "Elvis Squareley", "text": "Well, well... another square in The Cage. Triangles got tired of you too, huh?"},
+            {"speaker": "Elvis Squareley", "text": "Elvis Squareley's the name. Those wormholes? They go deep, right to where those triangle assholes are hiding."},
+            {"speaker": "Elvis Squareley", "text": "Fair warning: folks down here know what you did. What you built. Some of 'em aren't too happy about it."},
+            {"speaker": "Elvis Squareley", "text": "Triangles think The Cage is a grave. Joke's on them, it's a ladder straight to their doorstep. Give 'em hell, square."}
+        ]
+    },
+    {
+        "id": 2,
+        "lines": [
+            {"speaker": "Big Triangle Guy", "text": "Ha! A square? Down here? This is gonna be too easy!"},
+            {"speaker": "Big Triangle Guy", "text": "What's wrong, four sides? Can't get through my shield? Maybe try hitting it harder!"},
+            {"speaker": "Big Triangle Guy", "text": "You're not getting through this door without going through me first, pal. And that's not happening!"}
+        ]
+    },
+    {
+        "id": 3,
+        "lines": [
+            {"speaker": "Papagon", "text": "Those damn triangles..."},
+            {"speaker": "Papagon", "text": "My entire family... Gone."},
+            {"speaker": "Papagon", "text": "Please save us..."}
+        ]
+    },
+    {
+        "id": 4,
+        "lines": [
+            {"speaker": "Lord Hex", "text": "You. I know your vertices. You're the square who built the energy core that powers the triangles' weapons."},
+            {"speaker": "Lord Hex", "text": "We ruled with wisdom and order for generations. Then your invention put those lowly tris on our throne."},
+            {"speaker": "Lord Hex", "text": "Don't expect sympathy from us. You made this nightmare possible."},
+            {"speaker": "Lady Hepta", "text": "My family lost everything because of what you created. I hope that weighs on you."},
+            {"speaker": "Lady Hepta", "text": "The triangles may have locked us in here, but you handed them the key."}
+        ]
+    },
+    {
+        "id": 5,
+        "lines": [
+            {"speaker": "The Last Octagon", "text": "A square. In my tunnel. How did you even find this place?"},
+            {"speaker": "The Last Octagon", "text": "I was the leader of the Higher Order. Eight vertices, centuries of lineage. Now I'm the last one left, hiding in the dirt like vermin."},
+            {"speaker": "The Last Octagon", "text": "The triangles hunted down every octagon they could find. Executed us in the streets. I only survived because I ran."},
+            {"speaker": "The Last Octagon", "text": "You want to know if I blame you? Of course I do. Your creation put the executioner's blade in their hands."},
+            {"speaker": "The Last Octagon", "text": "But hatred won't fix this. Someone has to end what you started. Might as well be you."},
+            {"speaker": "The Last Octagon", "text": "Here. Let me teach you something the octagons used to know. You'll need it if you're going after the leader of the triangles."},
+            {"speaker": "The Last Octagon", "text": "Go. Finish this. And if you survive... never show your face here ever again."}
+        ]
+    },
+    {
+        "id": 6,
+        "lines": [
+            {"speaker": "Reginald Bartholomew Pemberton III", "text": "Ah. There you are. I was wondering when you'd finally make it down here."},
+            {"speaker": "Reginald Bartholomew Pemberton III", "text": "You know, I should thank you. This energy core you built? Made overthrowing the Higher Order so easy."},
+            {"speaker": "Reginald Bartholomew Pemberton III", "text": "They never saw it coming. Neither did you, apparently, when we took it right out from under you."},
+            {"speaker": "Reginald Bartholomew Pemberton III", "text": "For centuries, they treated us like we were nothing. The lowest shapes, good only for labor and servitude."},
+            {"speaker": "Reginald Bartholomew Pemberton III", "text": "But I suppose you didn't build the energy core for us, did you?"},
+            {"speaker": "Reginald Bartholomew Pemberton III", "text": "Well then. Time for you to die."}
+        ]
+    }
+]
