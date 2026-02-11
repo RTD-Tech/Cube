@@ -2,10 +2,7 @@
 #include <string>
 #include <iostream>
 
-#include "Player.h"
-#include "EnemyManager.h"
-#include "Map.h"
-#include "UserInterface.h"
+#include "MainScript.h"
 
 #ifdef _WIN32
 #pragma comment(linker, "/SUBSYSTEM:WINDOWS /ENTRY:mainCRTStartup")
@@ -15,25 +12,8 @@ int main(int argc, char* argv[]) {
     // Square application
     SquareCore::Application app;
 
-    Map* map = new Map();
-    Player* player = new Player();
-    EnemyManager* enemy_manager = new EnemyManager();
-    UserInterface* userInterface = new UserInterface();
-    map->SetEnemyManager(enemy_manager);
-    map->SetPlayerScript(player);
-    map->SetUserInterface(userInterface);
-    player->SetDialogManager(userInterface->GetDialogManager());
-    player->SetEnemyManager(enemy_manager);
-    player->SetUserInterface(userInterface);
-    player->SetMap(map);
-    userInterface->SetPlayerScript(player);
-    userInterface->SetMap(map);
-    enemy_manager->SetPlayerScript(player);
-    userInterface->GetDialogManager()->SetPlayerScript(player);
-    app.PushScript(map);
-    app.PushScript(player);
-    app.PushScript(enemy_manager);
-    app.PushScript(userInterface);
+    MainScript* main_script = new Map();
+    app.PushScript(main_script);
 
     // Parse command line arguments
     if (argc > 1) {
